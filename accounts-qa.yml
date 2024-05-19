@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA Spring cloud bus changes APIs "
+  message: "Welcome to EazyBank accounts related to QA original changes APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}620fbf9a9b10ec0cc08bb725c1ce2d53b319deb4cf3b05a8a9dda9f9af5616a00696210e5ef8b7ae80e88f91d59dd2ef"
